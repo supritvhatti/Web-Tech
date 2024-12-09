@@ -1,0 +1,29 @@
+/* Basic custom styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 2em;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  footer {
+    margin-top: 30px;
+  }
+  
+  @media (max-width: 768px) {
+    .navbar-nav {
+      text-align: center;
+    }
+  }
+  
